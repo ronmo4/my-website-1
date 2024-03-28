@@ -16,7 +16,10 @@ const MainPage = () => {
                 <Skills />
             </div>
         </div>
+        <div className="details-main">
             <Details />
+        </div>
+
         </React.Fragment>        
     );
 };

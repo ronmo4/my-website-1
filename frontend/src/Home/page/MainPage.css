@@ -35,4 +35,8 @@
     .skills {
         width: 40%;
     }
+
+    .details-main {
+        margin-top: 100px;
+    }
 }
